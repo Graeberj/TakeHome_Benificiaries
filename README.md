@@ -23,6 +23,7 @@ things I would have done differently:
  - added more(any) tests to the app
  - taken the time to check where scndMailLine was being parsed and updated it so it wasn't 
       changing null into a string
+ - formatted the phone number to be more readable
  - created a button to go back to the list view from the detail view
  - worked a little more independently on each layer and commit more
 
