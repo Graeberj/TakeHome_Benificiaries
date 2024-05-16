@@ -1,4 +1,4 @@
-package com.graeberj.takehome_benificiaries
+package com.graeberj.takehome_beneficiaries
 
 import org.junit.Test
 

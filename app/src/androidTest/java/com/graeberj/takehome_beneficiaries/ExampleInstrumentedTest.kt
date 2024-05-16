@@ -1,4 +1,4 @@
-package com.graeberj.takehome_benificiaries
+package com.graeberj.takehome_beneficiaries
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
